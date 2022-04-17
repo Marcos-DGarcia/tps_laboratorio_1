@@ -4,7 +4,7 @@
  *  Created on: 9 abr. 2022
  *      Author: Marcos
  */
-//BIBLIOTECA DE PEDIDOS Y VALIDACIONES
+
 #include "funcion.h"
 #include "funcioncalculos.h"
 
